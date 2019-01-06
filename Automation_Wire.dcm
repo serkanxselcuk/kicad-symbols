@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1x0.22
+D 1x0.22mm Cable
+K 1x0.22 1x0,22 0,22
+$ENDCMP
+#
+$CMP 2x0.22
+D 1x0.22mm Cable
+K 1x0.22 1x0,22 0,22
+$ENDCMP
+#
+$CMP 3x0.22
+D 1x0.22mm Cable
+K 1x0.22 1x0,22 0,22
+$ENDCMP
+#
+$CMP 4x0.22
+D 1x0.22mm Cable
+K 1x0.22 1x0,22 0,22
+$ENDCMP
+#
+$CMP 5x0.22
+D 1x0.22mm Cable
+K 1x0.22 1x0,22 0,22
+$ENDCMP
+#
+$CMP 6x0.22
+D 1x0.22mm Cable
+K 1x0.22 1x0,22 0,22
+$ENDCMP
+#
+$CMP 7x0.22
+D 1x0.22mm Cable
+K 1x0.22 1x0,22 0,22
+$ENDCMP
+#
+$CMP 8x0.22
+D 1x0.22mm Cable
+K 1x0.22 1x0,22 0,22
+$ENDCMP
+#
+#End Doc Library
