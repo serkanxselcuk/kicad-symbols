@@ -26,8 +26,33 @@ K 1x0.22 1x0,22 0,22
 $ENDCMP
 #
 $CMP 6x0.22
-D 1x0.22mm Cable
-K 1x0.22 1x0,22 0,22
+D 6x0.22mm Cable
+K 6x0.22 6x0,22 0,22
+$ENDCMP
+#
+$CMP 6x0.50
+D 6x0.50mm Cable
+K 6x0.50 6x0,50 0,50
+$ENDCMP
+#
+$CMP 6x0.75
+D 6x0.75mm Cable
+K 6x0.75 6x0,75 0,75
+$ENDCMP
+#
+$CMP 6x1.0
+D 6x1.0mm Cable
+K 6x1.0 6x1,0 1,0
+$ENDCMP
+#
+$CMP 6x1.5
+D 6x1.5mm Cable
+K 6x1.5 6x1,5 1,5
+$ENDCMP
+#
+$CMP 6x2.5
+D 6x2.5mm Cable
+K 6x2.5 6x2,5 2,5
 $ENDCMP
 #
 $CMP 7x0.22
