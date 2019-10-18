@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Jumper_1x02
+D External jumper, bridge
+K bridge
+$ENDCMP
+#
 $CMP Jumper_2_Bridged
 D Jumper, 2-pole, closed/bridged
 K Jumper SPST
