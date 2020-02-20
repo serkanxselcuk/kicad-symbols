@@ -198,6 +198,12 @@ K I2C Serial EEPROM Nonvolatile Memory
 F http://ww1.microchip.com/downloads/en/DeviceDoc/AT24CM01-I2C-Compatible-Two-Wire-Serial-EEPROM-Data-Sheet-20006170A.pdf
 $ENDCMP
 #
+$CMP AT24CM02-SS
+D I2C Serial EEPROM, 1Mibit (131072x8) with Unique Serial Number, SO8
+K I2C Serial EEPROM Nonvolatile Memory
+F http://ww1.microchip.com/downloads/en/DeviceDoc/AT24CM02-Data-Sheet-20006197A.pdf
+$ENDCMP
+#
 $CMP AT24CS01-MAHM
 D I2C Serial EEPROM, 1Kb (128x8) with Unique Serial Number, UDFN8
 K I2C Serial EEPROM Nonvolatile Memory
