@@ -174,25 +174,25 @@ K EEPROM memory Microwire
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20001749K.pdf
 $ENDCMP
 #
-$CMP AT24CM01-SSxx-x
+$CMP AT24CM01-S
 D I2C Serial EEPROM, 1Mibit (131072x8) with Unique Serial Number, SO8
 K I2C Serial EEPROM Nonvolatile Memory
 F http://ww1.microchip.com/downloads/en/DeviceDoc/AT24CM01-I2C-Compatible-Two-Wire-Serial-EEPROM-Data-Sheet-20006170A.pdf
 $ENDCMP
 #
-$CMP AT24CM01-Sxx-x
+$CMP AT24CM01-SS
 D I2C Serial EEPROM, 1Mibit (131072x8) with Unique Serial Number, SO8
 K I2C Serial EEPROM Nonvolatile Memory
 F http://ww1.microchip.com/downloads/en/DeviceDoc/AT24CM01-I2C-Compatible-Two-Wire-Serial-EEPROM-Data-Sheet-20006170A.pdf
 $ENDCMP
 #
-$CMP AT24CM01-Uxx-x
+$CMP AT24CM01-U
 D I2C Serial EEPROM, 1Mibit (131072x8) with Unique Serial Number, SO8
 K I2C Serial EEPROM Nonvolatile Memory
 F http://ww1.microchip.com/downloads/en/DeviceDoc/AT24CM01-I2C-Compatible-Two-Wire-Serial-EEPROM-Data-Sheet-20006170A.pdf
 $ENDCMP
 #
-$CMP AT24CM01-Xxx-x
+$CMP AT24CM01-X
 D I2C Serial EEPROM, 1Mibit (131072x8) with Unique Serial Number, TSSOP8
 K I2C Serial EEPROM Nonvolatile Memory
 F http://ww1.microchip.com/downloads/en/DeviceDoc/AT24CM01-I2C-Compatible-Two-Wire-Serial-EEPROM-Data-Sheet-20006170A.pdf
