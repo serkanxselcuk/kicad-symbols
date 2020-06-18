@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP VL53L1CXV0FY1
+D 4m distance ranging ToF sensor
+K VL53L1x ToF
+F https://www.st.com/resource/en/datasheet/vl53l1x.pdf
+$ENDCMP
+#
 $CMP BPR-105
 D Subminiature Reflective Optical Sensor, SMD-package with PCB-cutout
 K Reflective Optical Sensor Opto
